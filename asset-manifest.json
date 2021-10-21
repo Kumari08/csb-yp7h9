@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://kumari08.github.io/csb-yp7h9/static/css/main.9eb48dc4.chunk.css",
+    "main.js": "https://kumari08.github.io/csb-yp7h9/static/js/main.c57204a9.chunk.js",
+    "main.js.map": "https://kumari08.github.io/csb-yp7h9/static/js/main.c57204a9.chunk.js.map",
+    "runtime-main.js": "https://kumari08.github.io/csb-yp7h9/static/js/runtime-main.b02c2392.js",
+    "runtime-main.js.map": "https://kumari08.github.io/csb-yp7h9/static/js/runtime-main.b02c2392.js.map",
+    "static/js/2.5bbcee46.chunk.js": "https://kumari08.github.io/csb-yp7h9/static/js/2.5bbcee46.chunk.js",
+    "static/js/2.5bbcee46.chunk.js.map": "https://kumari08.github.io/csb-yp7h9/static/js/2.5bbcee46.chunk.js.map",
+    "index.html": "https://kumari08.github.io/csb-yp7h9/index.html",
+    "precache-manifest.e54232c5e923aec7c5f26820ee5e5b1c.js": "https://kumari08.github.io/csb-yp7h9/precache-manifest.e54232c5e923aec7c5f26820ee5e5b1c.js",
+    "service-worker.js": "https://kumari08.github.io/csb-yp7h9/service-worker.js",
+    "static/css/main.9eb48dc4.chunk.css.map": "https://kumari08.github.io/csb-yp7h9/static/css/main.9eb48dc4.chunk.css.map",
+    "static/js/2.5bbcee46.chunk.js.LICENSE.txt": "https://kumari08.github.io/csb-yp7h9/static/js/2.5bbcee46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b02c2392.js",
+    "static/js/2.5bbcee46.chunk.js",
+    "static/css/main.9eb48dc4.chunk.css",
+    "static/js/main.c57204a9.chunk.js"
+  ]
+}
